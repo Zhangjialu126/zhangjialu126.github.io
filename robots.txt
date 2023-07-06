@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhangjialu126.github.io/zhangjialu126/sitemap.xml
+Sitemap: zhangjialu126.github.io/sitemap.xml
