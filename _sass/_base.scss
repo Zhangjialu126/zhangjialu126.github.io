@@ -115,12 +115,14 @@ blockquote {
 // Profile
 
 .profile {
+  margin-left: 1rem;
   width: 100%;
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 1.2rem;
 
     p {
       display: inline-block;
@@ -305,7 +307,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
