@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>:telephone:Tel: +86 13930415730</p>
-    <p>:office: Beihang University,</p>
-    <p>:sparkles: Beijing, China</p>
+    <p>Tel: +86 13930415730</p>
+    <p>Beihang University</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
