@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postgraduate Student in Deep Generative Modelling.
+subtitle: Postgraduate Student in Deep Generative Modelling
 
 profile:
   align: right
