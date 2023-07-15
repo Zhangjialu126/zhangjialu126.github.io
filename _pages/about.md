@@ -7,7 +7,7 @@ subtitle: Postgraduate Student in Deep Generative Modelling
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Tel: +86 13930415730</p>
     <p>Beijing, China</p>
