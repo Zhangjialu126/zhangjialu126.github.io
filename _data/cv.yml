@@ -28,21 +28,21 @@
   contents:
     - title: <a href="https://zhangjialu126.github.io/">Jialu Zhang</a>
       year: 2023
-      description: xxx.
+      # description: xxx.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
-      items: 
-        - xxx
+      # items: 
+        # - xxx
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Generative Adversarial Networks
+    - title: Deep Generative Modelling
       items: 
-        - xxx.
+        - Generative Adversarial Networks
 
 - title: Other Interests
   type: list
